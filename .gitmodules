@@ -1,0 +1,3 @@
+[submodule "DI_Service_Lifetime"]
+	path = DI_Service_Lifetime
+	url = https://github.com/WasikAhmed/DI_Service_Lifetime.git
